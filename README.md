@@ -40,32 +40,3 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thecoderpanda&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xza7lcu3uvkzfp3cr5iryr3y54&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-<br/>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/thecoderpanda" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----

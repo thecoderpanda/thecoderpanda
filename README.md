@@ -6,7 +6,7 @@
 ### <div align="center">Hey! I'm Shantanu, Developer Advocate and Entrepreneur building products since 2016 🚀</div>  
   
 
-- 🔭 I’m currently working as Developer Relations Engineer at Powerloom 
+- 🔭 I’m currently looking for Developer Relations Opportunities
   
 
 - 🌱 I’m currently learning Rust and AI Over Blockchain  
